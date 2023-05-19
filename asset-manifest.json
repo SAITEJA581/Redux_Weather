@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Redux_Weather/static/css/main.694ff4c1.css",
+    "main.js": "/Redux_Weather/static/js/main.05bf38d5.js",
+    "static/media/weather bg.jpg": "/Redux_Weather/static/media/weather bg.3bc26a22c45ce8118a15.jpg",
+    "static/media/sunny image.png": "/Redux_Weather/static/media/sunny image.6d54b6934ff157026ea1.png",
+    "index.html": "/Redux_Weather/index.html",
+    "main.694ff4c1.css.map": "/Redux_Weather/static/css/main.694ff4c1.css.map",
+    "main.05bf38d5.js.map": "/Redux_Weather/static/js/main.05bf38d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.694ff4c1.css",
+    "static/js/main.05bf38d5.js"
+  ]
+}
